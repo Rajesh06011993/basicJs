@@ -1,0 +1,117 @@
+
+@media screen  and (max-width: 294px){
+   
+.accordion{
+
+	width: 60vw;
+	height: 80vh;
+	
+}
+
+.col-body{
+
+	width: 100%;
+	height: 150vh;
+
+}
+
+.col-butt{
+    
+	width: 100%;
+	height: 10vh;
+}
+}
+
+@media screen and  (min-width: 295px ) and (max-width: 375px){
+   
+.accordion{
+
+	width: 60vw;
+	height: 80vh;
+	
+}
+
+.col-body{
+
+	width: 100%;
+	height: 80vh;
+
+}
+
+.col-butt{
+    
+	width: 100%;
+	height: 5vh;
+}
+}
+
+
+@media screen and  (min-width: 375px ) and (max-width: 534px){
+   
+.accordion{
+
+	width: 60vw;
+	height: 80vh;
+	
+}
+
+.col-body{
+
+	width: 100%;
+	height: 60vh;
+
+}
+
+.col-butt{
+    
+	width: 100%;
+	height: 5vh;
+}
+}
+
+@media screen and  (min-width: 535px ) and (max-width: 962px){
+   
+.accordion{
+
+	width: 60vw;
+	height: 80vh;
+	
+}
+
+.col-body{
+
+	width: 100%;
+	height: 40vh;
+
+}
+
+.col-butt{
+    
+	width: 100%;
+	height: 5vh;
+}
+}
+
+
+@media screen and (min-width: 963px){
+   
+.accordion{
+
+	width: 60vw;
+	height: 70vh;
+	
+}
+
+.col-body{
+
+	width: 100%;
+	height: 20vh;
+
+}
+
+.col-butt{
+    
+	width: 100%;
+	height: 8vh;
+}
+}
